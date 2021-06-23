@@ -1,6 +1,6 @@
 {
     "name": "@weweb/prerender-spa",
-    "version": "2.0.3",
+    "version": "2.0.4",
     "description": "Fork from prerender-spa-plugin by Chris Fritz [https://github.com/chrisvfritz/prerender-spa-plugin]",
     "license": "MIT",
     "main": "index.js",
@@ -55,7 +55,7 @@
     },
     "dependencies": {
         "@weweb/prerenderer": "1.0.0",
-        "@weweb/renderer-puppeteer": "1.0.1",
+        "@weweb/renderer-puppeteer": "1.0.2",
         "html-minifier": "^3.5.16"
     },
     "devDependencies": {

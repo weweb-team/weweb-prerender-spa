@@ -1,7 +1,7 @@
 "use strict";
 
 var path = require("path");
-var Prerenderer = require("@prerenderer/prerenderer");
+var Prerenderer = require("@weweb/prerenderer");
 var PuppeteerRenderer = require("@weweb/renderer-puppeteer");
 
 var _require = require("html-minifier"),

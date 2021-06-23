@@ -1,5 +1,5 @@
 const path = require("path");
-const Prerenderer = require("@prerenderer/prerenderer");
+const Prerenderer = require("@weweb/prerenderer");
 const PuppeteerRenderer = require("@weweb/renderer-puppeteer");
 const { minify } = require("html-minifier");
 

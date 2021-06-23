@@ -1,6 +1,6 @@
 {
     "name": "@weweb/prerender-spa",
-    "version": "1.0.2",
+    "version": "2.0.1",
     "description": "Fork from prerender-spa-plugin by Chris Fritz [https://github.com/chrisvfritz/prerender-spa-plugin]",
     "license": "MIT",
     "main": "index.js",
@@ -48,9 +48,9 @@
             "email": "quentin.dreyer@gmail.com"
         }
     ],
-    "repository": "https://github.com/weweb-team/weweb-prerender-spa-plugin",
+    "repository": "https://github.com/weweb-team/weweb-prerender-spa",
     "bugs": {
-        "url": "https://github.com/weweb-team/weweb-prerender-spa-plugin/issues",
+        "url": "https://github.com/weweb-team/weweb-prerender-spa/issues",
         "email": "contact@weweb.io"
     },
     "dependencies": {
